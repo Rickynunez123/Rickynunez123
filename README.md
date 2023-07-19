@@ -1,4 +1,4 @@
-Hi 👋, I'm Ricardo 
+Hi 👋,
 
 I am Ricardo from Mexico. I am a senior majoring in computer science at Michigan Tech. I enjoy learning new technologies.
 
