@@ -1,6 +1,6 @@
 Hi 👋,
 
-I am Ricardo from Mexico. I am a senior majoring in computer science at Michigan Tech. I enjoy learning new technologies.
+I am Ricardo from Mexico. I am a senior majoring in computer science at Michigan Tech. I enjoy solving problems.
 
 🔭 I’m currently working on Recurrent Neural Networks
 
