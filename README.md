@@ -1,8 +1,6 @@
-Hi 👋,
+Hi,
 
-I am Ricardo from Mexico. I am a senior majoring in computer science at Michigan Tech. I enjoy solving problems.
+I am Ricardo from Mexico. I graduated from Michigan Tech with a bachelor's in CS
 
-🌱 I’m currently learning how to create different types of Neural Networks and IOS development
-
-📫 How to reach me rnunezcu@mtu.edu
+How to reach me rnunezcu@mtu.edu
 
